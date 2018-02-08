@@ -3,3 +3,5 @@
 
 # VSCode
 .vscode/
+
+02-webpack/node_modules/
